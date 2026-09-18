@@ -3,3 +3,6 @@ Practice repository for learning GitHub branches, pull requests, and workflow ba
 
 ## Purpose
 This repository is used to practice GitHub branches, pull requests, and merge workflows.
+
+## Current Practice
+Testing pull request and merge workflows.
