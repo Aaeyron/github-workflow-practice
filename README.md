@@ -6,3 +6,6 @@ This repository is used to practice GitHub branches, pull requests, and merge wo
 
 ## Current Practice
 Testing pull request and merge workflows.
+
+## Pull Request Practice
+Practicing clean pull request workflows.
