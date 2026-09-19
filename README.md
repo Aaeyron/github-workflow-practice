@@ -23,3 +23,4 @@ This repository helps us practice working together on GitHub.
 - Learn how to contribute to a shared repository.
 - Practice creating and merging pull requests.
 - Testing new.
+- Practiced resolving merge conflicts together.
