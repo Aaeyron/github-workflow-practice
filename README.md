@@ -24,7 +24,3 @@ This repository helps us practice working together on GitHub.
 - Practice creating and merging pull requests.
 - Testing new.
 - Practiced resolving merge conflicts together.
-
-Improved our GitHub collaboration documentation.
-
-Co-authored-by: Aaron Seth Nagtalon <179990679+Aaeyron@users.noreply.github.com>
