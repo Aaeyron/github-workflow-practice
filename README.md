@@ -12,3 +12,10 @@ Practicing clean pull request workflows.
 
 ## Practice Progress
 Completed another pull request workflow practice.
+
+## GitHub Workflow Skills
+
+- Creating and managing branches
+- Opening and reviewing pull requests
+- Resolving merge conflicts
+- Merging changes into the main branch
