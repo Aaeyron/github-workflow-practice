@@ -13,13 +13,6 @@ Practicing clean pull request workflows.
 ## Practice Progress
 Completed another pull request workflow practice.
 
-## GitHub Workflow Skills
-
-- Creating and managing branches
-- Opening and reviewing pull requests
-- Resolving merge conflicts
-- Merging changes into the main branch
-
 ## Team Collaboration
 
 This repository helps us practice working together on GitHub.
@@ -29,3 +22,4 @@ This repository helps us practice working together on GitHub.
 - Improve our teamwork skills.
 - Learn how to contribute to a shared repository.
 - Practice creating and merging pull requests.
+- Testing new.
