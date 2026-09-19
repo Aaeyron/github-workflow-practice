@@ -19,3 +19,8 @@ Completed another pull request workflow practice.
 - Opening and reviewing pull requests
 - Resolving merge conflicts
 - Merging changes into the main branch
+
+## Collaboration Practice
+
+This repository is also used to practice
+collaborative development with GitHub.
