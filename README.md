@@ -1,17 +1,30 @@
+
 # github-workflow-practice
+
 Practice repository for learning GitHub branches, pull requests, and workflow basics.
 
 ## Purpose
+
 This repository is used to practice GitHub branches, pull requests, and merge workflows.
 
 ## Current Practice
+
 Testing pull request and merge workflows.
 
 ## Pull Request Practice
+
 Practicing clean pull request workflows.
 
 ## Practice Progress
+
 Completed another pull request workflow practice.
+
+## GitHub Workflow Skills
+
+- Creating and managing branches
+- Opening and reviewing pull requests
+- Resolving merge conflicts
+- Merging changes into the main branch
 
 ## Team Collaboration
 
@@ -22,5 +35,10 @@ This repository helps us practice working together on GitHub.
 - Improve our teamwork skills.
 - Learn how to contribute to a shared repository.
 - Practice creating and merging pull requests.
-- Testing new.
+
+### Collaboration Progress
+
+- Worked together to improve the README.
+- Practiced using a shared branch and pull request.
+- Learned how to credit contributors in a commit.
 - Practiced resolving merge conflicts together.
