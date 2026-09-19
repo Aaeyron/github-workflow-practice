@@ -41,3 +41,4 @@ This repository helps us practice working together on GitHub.
 - Worked together to improve the README.
 - Practiced using a shared branch and pull request.
 - Learned how to credit contributors in a commit.
+- Practiced resolving merge conflicts together.
