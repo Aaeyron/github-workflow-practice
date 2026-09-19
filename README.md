@@ -20,7 +20,12 @@ Completed another pull request workflow practice.
 - Resolving merge conflicts
 - Merging changes into the main branch
 
-## Collaboration Practice
+## Team Collaboration
 
-This repository is also used to practice
-collaborative development with GitHub.
+This repository helps us practice working together on GitHub.
+
+### Our Goals
+
+- Improve our teamwork skills.
+- Learn how to contribute to a shared repository.
+- Practice creating and merging pull requests.
